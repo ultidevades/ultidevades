@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/OnlyForward0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=OnlyForward0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@OnlyForward0613's trophy stats"/></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=OnlyForward0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@OnlyForward0613's trophy stats"/>
 </p>
 <table align="center">
 <tr>
