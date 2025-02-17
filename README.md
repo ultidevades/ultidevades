@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/ultidevades?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ultidevades&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@ultidevades's trophy stats"/></a>
+  <a href="https://github.com/ultidevades?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=ultidevades&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@trophy stats"/></a>
 </p>
 <table align="center">
 <tr>
