@@ -135,12 +135,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github.com/ultidevades/ultidevades/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p>
-<p align="center">
-
-  <a href="https://github.com/ultidevades/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=ultidevades&layout=compact&langs_count=8&card_width=350&theme=radical" />
+  <a href="https://github.com/adethos/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=adethos&show_icons=true&theme=radical&card_width=350" />
+  </a>
+  <a href="https://github.com/adethos/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=adethos&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
   
 </p>
@@ -148,10 +147,14 @@
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
 </p> -->
 <p align="center">
- 
+  
 </p>
 
 <div align="left">
+
+
+
+<br clear ="both" >
 
 
 
