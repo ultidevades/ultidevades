@@ -1,4 +1,4 @@
-<h1 align="center">🎁 Passionate Bot & Web 3 developer 🎁</h1> 
+<h1 align="center">🎁 Passionate Solana & Trading Bot developer 🎁</h1> 
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
